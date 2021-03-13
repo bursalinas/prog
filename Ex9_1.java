@@ -49,14 +49,3 @@ public class Ex9_1
 		return false;
 	}
 }
-
-
-
-
-
-
-
-//verificar se uma string é composta por letras, espaços...(+ if, consoantes e vogais)
-//ler uma class aluno(nome idade nota)
-//função e returnar os dados da class aluno
-//array de alunos, contar numero de alunos
